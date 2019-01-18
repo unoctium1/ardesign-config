@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Scene": 3
+  },
+  "models": {
+    "Scene": {
+      "1": "{\"name\":\"Test\",\"config\":{\"Host\":\"test\",\"Port\":\"test\",\"Db\":\"awair\"}, \"id\":1}",
+      "2": "{\"id\":2,\"name\":\"Sample DB\",\"config\":{\"Host\":\"206.12.88.106\",\"Port\":\"8086\",\"Db\":\"awair\",\"Widgets\":[{\"Position\":{\"x\":5,\"y\":0,\"z\":5},\"Measure\":\"IEQ_sensor_data\",\"Building\":\"CIRS\",\"Room\":\"3157\"},{\"Position\":{\"x\":3,\"y\":0,\"z\":-5},\"Measure\":\"IEQ_sensor_data\",\"Building\":\"CIRS\",\"Room\":\"3157\"},{\"Position\":{\"x\":-3,\"y\":0,\"z\":3},\"Measure\":\"IEQ_sensor_data\",\"Building\":\"CIRS\",\"Room\":\"3157\"}]}}"
+    }
+  }
+}
